@@ -1,9 +1,5 @@
-# Fabric Example Mod
+1. Place music disc in main hand!
+2. Setting Volume & Pitch
+3. Click to play button!
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+this is beta version!
